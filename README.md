@@ -140,15 +140,15 @@ If you use this work in your research, please cite:
 
 ## 👥 Authors
 
-- **Ariful Islam** - [Contact]
-- **Md Rifat Hossen** - [Contact]
-- **Md. Mahmudul Arif** - [Contact]
-- **Abdullah Al Noman** - [Contact]
-- **Md Arifur Rahman** - [Contact]
+- **Ariful Islam**
+- **Md Rifat Hossen**
+- **Md. Mahmudul Arif**
+- **Abdullah Al Noman**
+- **Md Arifur Rahman**
 
 ## 📧 Contact
 
-For questions or collaboration opportunities, please contact [Md Rifat Hossen](mailto:your.email@example.com)
+For questions or collaboration opportunities, please contact [Md Rifat Hossen](mailto:rifat8851@gmail.com)
 
 ## 📝 License
 
