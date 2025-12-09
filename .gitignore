@@ -1,0 +1,8 @@
+# BanglaMM-Disaster Research Repository .gitignore
+
+# Large Video Files (consider using Git LFS for these)
+*.mp4
+
+copyright-documents/
+paper/
+
